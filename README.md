@@ -1,33 +1,64 @@
-<h1 align="center" style="animation: fadeInUp 1s ease-out;">Hi there, I'm Nishant Bhargava 👋</h1>
-<h3 align="center" style="animation: fadeInUp 1s 0.3s ease-out;">Passionate Frontend Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nishant Bhargava</h1>
+<img height="400px" width="100%" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
-<p align="center" style="color: #777; font-size: 1rem; animation: fadeInUp 1s 0.6s ease-out;">
-  📫 How to reach me: nishantbhargava.bhargava@gmail.com
+
+<h3 align="center">A passionate frontend developer In the middle of becoming Full-Stack (MERN) Developer. Thank You for taking the time to view my GitHub Profile 😄 from India</h3>
+
+<br/>
+<br/>
+<br/>
+
+- 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS, Javascript**
+ 
+- 📫 All my projects are available here [My repositories](https://github.com/Nishant6571?tab=repositories)
+
+- 💬 Ask me about **React, NodeJS, Redux, MongoDB, Javascript**
+
+- 📫 How to reach me **nishantbhargava.bhargava@gmail.com**, 9717464021
+
+## 🌐 Socials
+<p align="left">
+<a href = "www.linkedin.com/in/nishant-bh" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:nishantbhargava.bhargava@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+ 
+
 </p>
+                                                                                                                       
+ <br/>   
 
-<h3 align="center" style="margin-top: 1.5rem; animation: fadeInUp 1s 0.9s ease-out;">Connect with me:</h3>
-<p align="center" style="animation: fadeInUp 1s 1.2s ease-out;">
-  <a href="https://codepen.io/nishant-bhargava" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" style="margin: 0.5rem; transition: transform 0.3s ease-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/nishant6571" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin: 0.5rem; transition: transform 0.3s ease-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="https://instagram.com/its_nishant_1996" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0.5rem; transition: transform 0.3s ease-out;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="[https://app.netlify.com/teams/nishantbhargava-bhargava/overview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftwbs%3Flanguage%3Dcss&psig=AOvVaw0Gsf5p_UvoootK1vpBanXq&ust=1705426824509000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCd8ZP434MDFQAAAAAdAAAAABAD)" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftwbs%3Flanguage%3Dcss&psig=AOvVaw0Gsf5p_UvoootK1vpBanXq&ust=1705426824509000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCd8ZP434MDFQAAAAAdAAAAABAD" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
 
-<h3 align="center" style="animation: fadeInUp 1s 1.5s ease-out;">Languages and Tools:</h3>
-<p align="center" style="animation: fadeInUp 1s 1.8s ease-out;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 0.5rem;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 0.5rem;"/>
-</p>
+<br/>   
+<br/>   
+<br/>   
+<br/>   
+## 📊 My Github Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant6571&show_icons=true&locale=en" alt="NishantBhargava" /></p> 
+<br/>   
+   <br/>   
+    <p align="center">      
+  <a href="https://github.com/Nishant6571/github-readme-stats"><img alt="saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant6571&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="right">
+    <a href="https://github-readme-stats.vercel.app/api?username=Nishant6571&show_icons=true&locale=en">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NishantBhargava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant6571&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>                                                                                                                                              
+
+  <br/>
+   
+<br/>
 
 
+<br/>
+<br/>
+
+<br/>
+ 
+## ❤ Views and Followers
+
+<a href="https://github.com/Nishant6571?tab=followers"><img src="https://img.shields.io/github/followers/Nishant6571?label=Followers&style=social" alt="GitHub Badge"></a>
