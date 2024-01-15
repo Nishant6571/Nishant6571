@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Bhargava</h1>
-<img height="400px" width="100%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fviktordevv.medium.com%2Fthe-art-of-web-development-d32c17068868&psig=AOvVaw2kN3x22TUJRD8UdRSDw-Xr&ust=1705427181871000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjrhtn534MDFQAAAAAdAAAAABAE" />
+<img height="400px" width="100%" src="d32c17068868&psig=AOvVaw2kN3x22TUJRD8UdRSDw-Xr&ust=1705427181871000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjrhtn534MDFQAAAAAdAAAAABAE" />
 
 
 <h3 align="center">A passionate frontend developer In the middle of becoming Full-Stack (MERN) Developer. Thank You for taking the time to view my GitHub Profile 😄 from India</h3>
