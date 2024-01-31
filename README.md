@@ -92,24 +92,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="75"/>
   </a>
 </p>
-
-
-
-
-<br/>   
-<br/>   
-<br/>   
-<br/>   
+ <br/>
+ <br/>
 ## 📊 My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant6571" alt="nishant6571" /></a> </p>                                                                                                             
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
 
-  <br/>
-   
-<br/>
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant6571&show_icons=true&locale=en&layout=compact" alt="nishant6571" /></p>
+  </div>
+
+  <div  style="flex: 1; padding: 10px;text-align: center;">
+    <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nishant6571&show_icons=true&locale=en" alt="nishant6571" /></p>
+  </div>
+
+  <div style="flex: 1; padding: 10px; text-align: center;">
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant6571&" alt="nishant6571" /></p>
+  </div>
+
+</div>
 
 
-<br/>
-<br/>
-
-<br/>
  
