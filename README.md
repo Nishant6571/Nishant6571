@@ -23,7 +23,7 @@
 <a href = "www.linkedin.com/in/nishant-bh" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:nishantbhargava.bhargava@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
+<a href="https://drive.google.com/file/d/1j3Nex6J2azxv0g__ZcKF8ZlmMUoz_E_y/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/></a>
  
 
 </p>
