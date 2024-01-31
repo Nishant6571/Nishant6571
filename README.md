@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate frontend developer In the middle of becoming Full-Stack (MERN) Developer. Thank You for taking the time to view my GitHub Profile 😄 from India</h3>
 
-<br/>
+
 <br/>
 <br/>
 
