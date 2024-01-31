@@ -101,18 +101,7 @@
 <br/>   
 <br/>   
 ## 📊 My Github Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nishant6571&show_icons=true&locale=en" alt="NishantBhargava" /></p> 
-<br/>   
-   <br/>   
-    <p align="center">      
-  <a href="https://github.com/Nishant6571/github-readme-stats"><img alt="saurabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishant6571&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>      
-     <br/>
-   <p align="right">
-    <a href="https://github-readme-stats.vercel.app/api?username=Nishant6571&show_icons=true&locale=en">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NishantBhargava's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishant6571&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>                                                                                                                                              
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant6571" alt="nishant6571" /></a> </p>                                                                                                             
 
   <br/>
    
