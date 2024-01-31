@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nishant6571&label=Profile%20views&color=0e75b6&style=flat" alt="nishant" /> </p>
 
-- 🌱 I’m currently learning **React, MongoDB, Express JS, Node JS, Javascript**
+- 🌱 I’m currently learning **React, MongoDB, Node JS, Javascript**
  
 - 📫 All my projects are available here [My repositories](https://github.com/Nishant6571?tab=repositories)
 
 - 💬 Ask me about **React, NodeJS, Redux, MongoDB, Javascript**
 
-- 📫 How to reach me **nishantbhargava.bhargava@gmail.com**, 9717464021
+- 📫 How to reach me **nishantbhargava.bhargava@gmail.com**, 8285743459
 
 ## 🌐 Socials
 <p align="left">
