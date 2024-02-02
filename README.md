@@ -95,16 +95,19 @@
  <br/>
  <br/>
 ## 📊 My Github Stats
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 20px;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 20px;">
 
-  <div style="flex: 1; padding: 10px; text-align: center;">
+  <!-- First Inner Div -->
+  <div style="padding: 10px; text-align: center;">
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishant6571&show_icons=true&locale=en&layout=compact" alt="nishant6571" /></p>
   </div>
 
-  <div  style="flex: 1; padding: 10px;text-align: center;">
+  <!-- Second Inner Div -->
+  <div style="padding: 10px; text-align: center;">
     <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nishant6571&show_icons=true&locale=en" alt="nishant6571" /></p>
   </div>
 
+  <!-- Third Inner Div -->
   <div style="flex: 1; padding: 10px; text-align: center;">
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=nishant6571&" alt="nishant6571" /></p>
   </div>
